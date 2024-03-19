@@ -7,16 +7,19 @@ body {
 }
 
 h1 {
-    text-align: center;
     color: crimson;
 }
 h2 {
     text-align: left;
-    color:rgb(20, 207, 220);
+    color:white;
 }
 h3 {
     color: crimson;
     margin-left: 2em;
+}
+h4 {
+    color: white;
+    margin-left: 3em;
 }
 div p {
     text-align: justify;    
